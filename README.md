@@ -18,13 +18,12 @@
   ## Admin Page
   ![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/adminpage.jpg)
   
-  ## Create new Block
-    ![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/createblockpage1.jpg)
-    ![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/createblockpage2.jpg)
-    
- ## Create a new Type
-    ![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/newtypepage.jpg)
-    
+## Create a new Block
+![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/createblockpage1.jpg)
+![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/createblockpage2.jpg)
+
+## Create a New Block Type
+![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/newtypepage.jpg)
  ## Update a Block
  ![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/updateblockpage1.jpg)
 ![alt tag](https://github.com/Johndeleon/LVCC_WAD2_PROJECT/blob/master/documentation%20pictures/updateblockpage2.jpg)
